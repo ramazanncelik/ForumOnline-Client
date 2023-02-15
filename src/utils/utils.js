@@ -8,7 +8,7 @@ import { toast } from 'react-hot-toast'
 import { setFavoritePosts } from '../store/favoritePosts';
 import { setComplaints } from '../store/complaints';
 
-export const clientUrl = "https://forumonline.adaptable.app"
+export const clientUrl = "https://forumonline.vercel.app"
 export const mainUrl = "https://forumonlinebackend.adaptable.app"
 export const defaultUserImageUrl = "https://firebasestorage.googleapis.com/v0/b/eidos-95e1f.appspot.com/o/Uploads%2FUsers%2Fuserdefault.png?alt=media&token=06397d82-3dc8-4783-b110-a22b5d68e92e";
 export const language = navigator.language;
